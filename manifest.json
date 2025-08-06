@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Zendesk Cleaner",
-  "version": "2.0",
+  "version": "1.0",
   "description": "Removes unnecessary elements from Zendesk ticket pages.",
   "permissions": [
     "storage"
