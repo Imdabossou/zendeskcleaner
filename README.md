@@ -8,3 +8,5 @@ Before:
 After:
 
 <img width="115" height="161" alt="after" src="https://github.com/user-attachments/assets/c0257eb2-66fe-4b1a-811f-fbd5d833db59" />
+
+To install this, go to Chrome extensions and choose Load unpacked
